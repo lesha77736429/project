@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+}
+.link-header{
+    text-decoration: none;
+    font-size: 33px;
+    color: rgb(27, 149, 68);
+    margin-left: 3px;
+}
+header{
+    border: 3px dotted rgb(23, 65, 89);
+    border-radius: 26px;
+    padding: 4px;
+    background-image: linear-gradient(#3714b0, #7109ab);
+}
+.link-header:hover{
+    color: chocolate;
+    transition: 3s;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background: linear-gradient(#62e200, #A68400);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h3{
+    font-size: 22px;
+    box-shadow: 5px 5px 5px 0 blue;
+    margin-right: 1100px;
+}
+li{
+    font-size: 18px;
+}
+.text-big{
+    text-align: center;
+    font-size: 28px;
+    background:linear-gradient(#FFCB00, #FF7800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.link-text{
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(18, 96, 44);
+}
+.text-link{
+    font-size: 23px;
+}
+.link-text:hover{
+    transition: 3s;
+    color: chocolate;
+}
+
+nav{
+    border: 5px dotted rgb(134, 98, 7);
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.link-nav{
+    text-decoration: none;
+    margin-left: 200px;
+    color: rgb(61, 82, 39);
+    font-size: 30px;
+}
+.link-nav:hover{
+    transition: 3s;
+    color: coral;
+    background-color: cyan;
+    border-radius: 18px;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background: linear-gradient(#62e200, #A68400);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    font-size: 21px;
+}
+.link-text:hover{
+    transition: 3s;
+    color: chocolate;
+}
+.link-text{
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(18, 96, 44);
+}
+.text-link{
+    font-size: 23px;
+}
